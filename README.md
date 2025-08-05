@@ -1,19 +1,19 @@
 # FishOntology 📘
 
-A domain-specific semantic web ontology for fish taxonomy, anatomy, and ecology — developed for the “Semantic Web” course. It includes automated classification of unknown fish based on metadata restrictions.
+A domain-specific semantic web ontology for fish taxonomy, anatomy and ecology — developed for the “Semantic Web” course. It includes automated classification of unknown fish based on metadata restrictions.
 
 ---
 
 ## 🧱 Project structure
 
 
-├── Report_web_semantico‑2.pdf ← Course report (in Italian)
-├── ontology.ttl ← Turtle-format FO (Fish Ontology)
-├── catalog‑v001.xml ← OWL catalog file for tool support
-├── grafo.graph ← OntoGraf model file (Protégé)
-├── immagineGrafo.{jpg,png} ← Graph images generated from ontology
-├── ontology.properties ← Configuration for Protégé/OntoGraf
-└── org.protege.ontograf.jar ← Plugin to enable graph view
+├── Report_web_semantico‑2.pdf -> Course report (in Italian)
+├── ontology.ttl ->Turtle-format FO (Fish Ontology)
+├── catalog‑v001.xml -> OWL catalog file for tool support
+├── grafo.graph -> OntoGraf model file (Protégé)
+├── immagineGrafo.{jpg,png} -> Graph images generated from ontology
+├── ontology.properties -> Configuration for Protégé/OntoGraf
+└── org.protege.ontograf.jar -> Plugin to enable graph view.
 
 ---
 
